@@ -1,13 +1,20 @@
-# 180 Days of AI Engineering 🚀
+180 Days of AI Engineering 🚀
 By Pavitharani G S (@pavitharani-ai)
 
-I am a 6th-sem ECE student transitioning into AI Engineering. This repository tracks my 6-month journey to building production-grade AI systems.
+I am a 6th-sem ECE student transitioning into AI Engineering. This repository tracks my 6-month journey of learning and building in public.
 
-## Day 1: Foundations & Environment Setup
-- **Goal:** Set up a professional engineering environment and build a basic logic bridge.
-- **Tech Stack:** Python 3.12, VS Code, Git.
-- **What I Built:** An ECE-based logic script that calculates Current (Ohm's Law) and uses AI-style decision logic to classify circuit stability.
-- **Learning:** Environment configuration, variables, and if-else logic.
+Day 1: Foundations & Environment Setup
+Goal: Set up development environment and start coding basics
+Tech Stack: Python 3.12, VS Code, Git
 
----
-*Follow my journey to a Tier-1 tech firm!*
+What I Did:
+
+Set up Python and VS Code
+Wrote a simple program using variables and basic logic
+
+Learning:
+
+Environment setup
+Understanding variables and if-else logic
+
+Looking forward to improving step by step and building real AI projects.
